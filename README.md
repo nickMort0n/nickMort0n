@@ -16,6 +16,6 @@ why is anyone here?
 <gif width="640" height="640" alt="image" src="https://github.com/user-attachments/assets/57f6f18d-adb6-49fe-b1d1-a5bc99daff50" />
 
 
-<!--
-[image](https://media.tenor.com/_kn9cwnIQgkAAAAd/anime-blush.gif)
--->
+
+![image](https://media.tenor.com/_kn9cwnIQgkAAAAd/anime-blush.gif)
+
