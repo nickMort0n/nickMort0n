@@ -5,7 +5,8 @@
 
   
 
-<h1 align="center" about me /h1>
+<h1 align="center" /h1>
+## about me
   
 [![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=nickMort0n&langs_count=4&theme=omni)](https://github-stats-extended.vercel.app/api/top-langs?username=nickMort0n&langs_count=4&theme=omni)
 
