@@ -19,6 +19,6 @@
 <h1 align="center">
  why is anyone here? 
 
-![image](https://usagif.com/wp-content/uploads/gif/blushing-62.gif)
+![image](https://media.tenor.com/zOTshHqsolgAAAAC/anime-girl.gif)
 
 </h1>
