@@ -19,6 +19,6 @@
 <h1 align="center">
  why is anyone here? 
 
-![image](https://media.tenor.com/BkAtT0qBqGUAAAAM/aww-shucks-shy.gif)
+![image](https://usagif.com/wp-content/uploads/gif/blushing-62.gif)
 
 </h1>
