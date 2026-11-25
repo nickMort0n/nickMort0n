@@ -19,6 +19,6 @@
 <h1 align="center">
  why is anyone here? 
 
-![image]([https://media1.tenor.com/m/uNkWF5rND9IAAAAC/flustered-anime-girl-embarrassed-anime-girl.gif](https://media.tenor.com/BkAtT0qBqGUAAAAM/aww-shucks-shy.gif))
+![image](https://media.tenor.com/BkAtT0qBqGUAAAAM/aww-shucks-shy.gif)
 
 </h1>
