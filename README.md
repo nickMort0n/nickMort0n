@@ -4,7 +4,7 @@
 -  I’m currently learning various python tools
 
 
-[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=nickMort0n&langs_count=4&theme=material-palenight)](https://github-stats-extended.vercel.app/api/top-langs?username=nickMort0n&langs_count=4&theme=material-palenight) 
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=nickMort0n&langs_count=4&theme=omni)](https://github-stats-extended.vercel.app/api/top-langs?username=nickMort0n&langs_count=4&theme=omni)
 
 
 <h3 align="left">Languages and Tools:</h3>
