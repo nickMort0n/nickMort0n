@@ -4,7 +4,7 @@
 -  I’m currently learning various python tools
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=nickMort0n)](https://github.com/stats-organization/github-stats-extended)
 
 
 <h3 align="left">Languages and Tools:</h3>
