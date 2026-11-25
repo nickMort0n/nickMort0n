@@ -13,7 +13,7 @@
 
 why is anyone here?
 
-<img width="640" height="640" alt="image" src="https://github.com/user-attachments/assets/57f6f18d-adb6-49fe-b1d1-a5bc99daff50" />
+<gif width="640" height="640" alt="image" src="https://github.com/user-attachments/assets/57f6f18d-adb6-49fe-b1d1-a5bc99daff50" />
 
 
 <!--
