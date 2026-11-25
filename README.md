@@ -3,6 +3,8 @@
 -  I’m currently working on learning the fundamentals of bioinformatics
 -  learning various python tools
 
+-  
+
 
 [![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=nickMort0n&langs_count=4&theme=omni)](https://github-stats-extended.vercel.app/api/top-langs?username=nickMort0n&langs_count=4&theme=omni)
 
