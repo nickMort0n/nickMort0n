@@ -13,4 +13,4 @@
 
 why is anyone here?
 
-![image]([https://media.tenor.com/_kn9cwnIQgkAAAAd/anime-blush.gif](https://media1.tenor.com/m/uNkWF5rND9IAAAAC/flustered-anime-girl-embarrassed-anime-girl.gif))
+![image](https://media1.tenor.com/m/uNkWF5rND9IAAAAC/flustered-anime-girl-embarrassed-anime-girl.gif)
