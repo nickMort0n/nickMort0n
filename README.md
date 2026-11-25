@@ -2,6 +2,8 @@
 
 -  I’m currently working on learning the funcdamentals of bioinformatics
 -  I’m currently learning various python tools
+
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 
