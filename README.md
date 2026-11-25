@@ -13,4 +13,4 @@
 
 why is anyone here?
 
-[!image](https://media.tenor.com/_kn9cwnIQgkAAAAd/anime-blush.gif)
+[image](https://media.tenor.com/_kn9cwnIQgkAAAAd/anime-blush.gif)
