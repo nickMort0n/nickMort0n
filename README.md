@@ -1,5 +1,8 @@
-<h1 align="center">Hi, I'm Nick</h1>
-<h3 align="center">Student working on bioinformatics</h3>
+<h1 align="center">Hi, I'm Nick</h1 
+
+-  I’m currently working on learning the funcdamentals of bioinformatics
+-  I’m currently learning various python tools
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <h3 align="left">Languages and Tools:</h3>
