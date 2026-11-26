@@ -17,7 +17,7 @@
 </h1>
 
 <h1 align="center">
- why is anyone here? 
+ why is anyone looking at my profile? 
 
 ![image](https://i.pinimg.com/originals/04/58/93/0458930fcf50fbbdf3c6babf12812156.gif)
 
